@@ -1,26 +1,28 @@
+.inline-block {
+	display: inline-block;
+	vertical-align: top;
+}
+.img-block {
+	width: 22%	
+}
 .img-round
 {
 	border-radius: 60%;
 	height : 250px;
-	float : left;
-	position: absolute;
-	width: 22%
-	
+	width: 100%;
 }
 
 .mid-block
 {
-	float : left;
 	width : 45%;
 	height : 250px;
-	padding-left: 25%;
+	/*padding-left: 25%;*/
 	
 	font-family : Comic Sans MS;
 }
 
 .right-block
 {
-	float : right;
 	width: 22%;
 	font-family : Comic Sans MS;
 	height : 250px;
