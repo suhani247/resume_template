@@ -1,6 +1,8 @@
 .inline-block {
 	display: inline-block;
 	vertical-align: top;
+		font-family : Comic Sans MS;
+	
 }
 .img-block {
 	width: 22%	
@@ -18,15 +20,38 @@
 	height : 250px;
 	/*padding-left: 25%;*/
 	
-	font-family : Comic Sans MS;
+
 }
 
 .right-block
 {
 	width: 22%;
-	font-family : Comic Sans MS;
+
 	height : 250px;
 	padding-top : 20px;
 	
+}
+
+.left-panel
+{
+	width : 30%;
+	font-family : Georgia;
+	font-size : 20px;
+}
+
+.right-panel
+{
+	width: 65%;
+	font-family : Book Antiqua;
+}
+
+.heading-size
+{
+	font-size: 18px
+}
+
+.content-size
+{
+	font-size: 15px
 }
 
