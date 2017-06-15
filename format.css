@@ -1,7 +1,7 @@
 .inline-block {
 	display: inline-block;
 	vertical-align: top;
-		font-family : Comic Sans MS;
+		
 	
 }
 .img-block {
@@ -28,15 +28,15 @@
 	width: 22%;
 
 	height : 250px;
-	padding-top : 20px;
+	padding-top : 15px;
 	
 }
 
 .left-panel
 {
 	width : 30%;
-	font-family : Georgia;
 	font-size : 20px;
+	color : orange;
 }
 
 .right-panel
@@ -47,11 +47,14 @@
 
 .heading-size
 {
-	font-size: 18px
+	font-size: 18px;
+	color: olive;
+	font-weight:  bold;
 }
 
 .content-size
 {
-	font-size: 15px
+	font-size: 15px;
+	
 }
 
